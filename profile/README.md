@@ -10,7 +10,7 @@
     <a href="https://nesalia.com"><strong>Learn more »</strong></a>
     <br />
     <br />
-    <a href="https://discord.gg/nesalia">Discord</a>
+    <a href="https://deessejs.com">deessejs</a>
     ·
     <a href="https://nesalia.com">Website</a>
     ·
