@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh org view:*)",
+      "Bash(gh api:*)"
+    ]
+  }
+}

@@ -34,18 +34,3 @@ We believe the best way to learn is by building real applications that solve rea
 - **AI-powered workflows** - Leverage agent automation for enhanced productivity
 - **Community-driven** - Open-source projects with active contributor support
 
-## Get Started
-
-Visit [nesalia.com](https://nesalia.com) to start building with our tools.
-
-<a href="https://nesalia.com">
-  <img src="./preview.png" alt="Nesalia Platform Preview" width="100%">
-</a>
-
-## Contributing
-
-We welcome contributions! Please see our [contributing guidelines](https://github.com/nesalia-inc/.github/blob/main/CONTRIBUTING.md) for more information.
-
-## License
-
-Licensed under various licenses depending on the project. See individual repositories for details.
