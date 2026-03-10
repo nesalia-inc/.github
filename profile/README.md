@@ -12,7 +12,7 @@
     <br />
     <a href="https://deessejs.com">deessejs</a>
     ·
-    <a href="https://nesalia.com">Website</a>
+    <a href="https://nesalia.com">nesalia</a>
     ·
     <a href="https://github.com/nesalia-inc/nesalia/issues">Issues</a>
   </p>
@@ -21,7 +21,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/nesalia-inc/deessejs?style=flat&colorA=000000&colorB=000000)](https://github.com/nesalia-inc/deessejs/stargazers)
 </p>
 
-## About the Project
+## About Us
 
 Nesalia is a software company dedicated to creating developer tools that empower the next generation of elite developers. We build frameworks, libraries, and tooling that make software development faster, more enjoyable, and more productive.
 
