@@ -16,9 +16,6 @@
     ·
     <a href="https://github.com/nesalia-inc/nesalia/issues">Issues</a>
   </p>
-
-[![npm](https://img.shields.io/npm/dm/deessejs?style=flat&colorA=000000&colorB=000000)](https://npm.chart.dev/deessejs?primary=neutral&gray=neutral&theme=dark)
-[![GitHub stars](https://img.shields.io/github/stars/nesalia-inc/deessejs?style=flat&colorA=000000&colorB=000000)](https://github.com/nesalia-inc/deessejs/stargazers)
 </p>
 
 ## About Us
